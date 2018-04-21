@@ -1,0 +1,14 @@
+# silly macOS
+.DS_Store
+
+# build files
+build/
+
+# docs
+docs/
+
+# ide profile
+xcode/
+
+# jupyter checkpoints
+etc/.ipynb_checkpoints/
